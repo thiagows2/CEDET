@@ -19,6 +19,7 @@ namespace :dev do
       password: DEFAULT_PASSWORD,
       password_confirmation: DEFAULT_PASSWORD
     )
+    end
   end
 
   private
